@@ -1,1283 +1,1281 @@
-{
-	"products": [
-		{
-			"name": "Gaming PC 2017 Model - A",
-			"specs": {
-				"cpu": {
-					"model": "Intel Pentium G4400",
-					"manufacturer": "Intel",
-					"clock": "3.3 Ghz",
-					"socket": "LGA1151"
-				},
-				"motherboard": {
-					"model": "Asus Z170-K (LGA1151,Z170, DDR4)",
-					"manufacturer": "Asus",
-					"chipset": "Intel Z170"
-				},
-				"memory": {
-					"model": "Gskill DDR4 RipjawsV F4-2400C15S-8GVR",
-					"manufacturer": "Gskill",
-					"DDR": 4,
-					"PC": 19200,
-					"capacity": "8GB"
-				},
-				"storages": [
-					{
-						"model": "Samsung SSD 750 EVO",
-						"manufacturer": "Samsung",
-						"type": "ssd",
-						"subtype": "SATA",
-						"capacity": "120GB"
-					}
-				],
-				"gpu": {
-					"model": "Asus GeForce GTX 1050 Ti 4GB DDR5 Phoenix - PH-GTX1050TI",
-					"manufacturer": "ASUS",
-					"chipset": "Nvidia GTX1050 Ti",
-					"memorySize": "4GB"
-				},
-				"casing": {
-					"model": "Corsair Carbide SPEC-01",
-					"formFactor": "mid tower",
-					"manufacturer": "Corsair"
-				},
-				"PSU": {
-					"model": "Corsair RM650X (Fully Modular, 80 Plus Gold Certified)",
-					"manufacturer": "Corsair",
-					"wattage": 650
-				},
-				"keyboard": {
-					"model": "SteelSeries 6G V2 (US)",
-					"manufacturer": "Steelseries"
-				},
-				"mouse": {
-					"model": "SteelSeries Sensei Raw",
-					"manufacturer": "Steelseries"
-				},
-				"display": {
-					"model": "Asus VP228H",
-					"manufacturer": "Asus",
-					"screenSize": "22 inch"
-				}
+[
+	{
+		"name": "Gaming PC 2017 Model - A",
+		"specs": {
+			"cpu": {
+				"model": "Intel Pentium G4400",
+				"manufacturer": "Intel",
+				"clock": "3.3 Ghz",
+				"socket": "LGA1151"
 			},
-			"price": 1030,
-			"inStock": true
+			"motherboard": {
+				"model": "Asus Z170-K (LGA1151,Z170, DDR4)",
+				"manufacturer": "Asus",
+				"chipset": "Intel Z170"
+			},
+			"memory": {
+				"model": "Gskill DDR4 RipjawsV F4-2400C15S-8GVR",
+				"manufacturer": "Gskill",
+				"DDR": 4,
+				"PC": 19200,
+				"capacity": "8GB"
+			},
+			"storages": [
+				{
+					"model": "Samsung SSD 750 EVO",
+					"manufacturer": "Samsung",
+					"type": "ssd",
+					"subtype": "SATA",
+					"capacity": "120GB"
+				}
+			],
+			"gpu": {
+				"model": "Asus GeForce GTX 1050 Ti 4GB DDR5 Phoenix - PH-GTX1050TI",
+				"manufacturer": "ASUS",
+				"chipset": "Nvidia GTX1050 Ti",
+				"memorySize": "4GB"
+			},
+			"casing": {
+				"model": "Corsair Carbide SPEC-01",
+				"formFactor": "mid tower",
+				"manufacturer": "Corsair"
+			},
+			"PSU": {
+				"model": "Corsair RM650X (Fully Modular, 80 Plus Gold Certified)",
+				"manufacturer": "Corsair",
+				"wattage": 650
+			},
+			"keyboard": {
+				"model": "SteelSeries 6G V2 (US)",
+				"manufacturer": "Steelseries"
+			},
+			"mouse": {
+				"model": "SteelSeries Sensei Raw",
+				"manufacturer": "Steelseries"
+			},
+			"display": {
+				"model": "Asus VP228H",
+				"manufacturer": "Asus",
+				"screenSize": "22 inch"
+			}
 		},
-		{
-			"name": "Gaming PC 2017 Model - B",
-			"specs": {
-				"cpu": {
-					"model": "Intel Core i3-7100",
-					"manufacturer": "Intel",
-					"clock": "3.9 Ghz",
-					"socket": "LGA1151"
-				},
-				"motherboard": {
-					"model": "Asus Z170-K (LGA1151,Z170, DDR4)",
-					"manufacturer": "Asus",
-					"chipset": "Intel Z170"
-				},
-				"memory": {
-					"model": "Gskill DDR4 RipjawsV F4-2400C15S-8GVR",
-					"manufacturer": "Gskill",
-					"DDR": 4,
-					"PC": 19200,
-					"capacity": "8GB"
-				},
-				"storages": [
-					{
-						"model": "Samsung SSD 750 EVO",
-						"manufacturer": "Samsung",
-						"type": "ssd",
-						"subtype": "SATA",
-						"capacity": "120GB"
-					}
-				],
-				"gpu": {
-					"model": "Asus GeForce GTX 1050 Ti 4GB DDR5 Phoenix - PH-GTX1050TI",
-					"manufacturer": "ASUS",
-					"chipset": "Nvidia GTX1050 Ti",
-					"memorySize": "4GB"
-				},
-				"casing": {
-					"model": "Corsair Carbide SPEC-01",
-					"formFactor": "mid tower",
-					"manufacturer": "Corsair"
-				},
-				"PSU": {
-					"model": "Corsair RM650X (Fully Modular, 80 Plus Gold Certified)",
-					"manufacturer": "Corsair",
-					"wattage": 650
-				},
-				"keyboard": {
-					"model": "SteelSeries 6G V2 (US)",
-					"manufacturer": "Steelseries"
-				},
-				"mouse": {
-					"model": "SteelSeries Sensei Raw",
-					"manufacturer": "Steelseries"
-				},
-				"display": {
-					"model": "Asus VP228H",
-					"manufacturer": "Asus",
-					"screenSize": "22 inch"
-				}
+		"price": 1030,
+		"inStock": true
+	},
+	{
+		"name": "Gaming PC 2017 Model - B",
+		"specs": {
+			"cpu": {
+				"model": "Intel Core i3-7100",
+				"manufacturer": "Intel",
+				"clock": "3.9 Ghz",
+				"socket": "LGA1151"
 			},
-			"price": 1100,
-			"inStock": true
+			"motherboard": {
+				"model": "Asus Z170-K (LGA1151,Z170, DDR4)",
+				"manufacturer": "Asus",
+				"chipset": "Intel Z170"
+			},
+			"memory": {
+				"model": "Gskill DDR4 RipjawsV F4-2400C15S-8GVR",
+				"manufacturer": "Gskill",
+				"DDR": 4,
+				"PC": 19200,
+				"capacity": "8GB"
+			},
+			"storages": [
+				{
+					"model": "Samsung SSD 750 EVO",
+					"manufacturer": "Samsung",
+					"type": "ssd",
+					"subtype": "SATA",
+					"capacity": "120GB"
+				}
+			],
+			"gpu": {
+				"model": "Asus GeForce GTX 1050 Ti 4GB DDR5 Phoenix - PH-GTX1050TI",
+				"manufacturer": "ASUS",
+				"chipset": "Nvidia GTX1050 Ti",
+				"memorySize": "4GB"
+			},
+			"casing": {
+				"model": "Corsair Carbide SPEC-01",
+				"formFactor": "mid tower",
+				"manufacturer": "Corsair"
+			},
+			"PSU": {
+				"model": "Corsair RM650X (Fully Modular, 80 Plus Gold Certified)",
+				"manufacturer": "Corsair",
+				"wattage": 650
+			},
+			"keyboard": {
+				"model": "SteelSeries 6G V2 (US)",
+				"manufacturer": "Steelseries"
+			},
+			"mouse": {
+				"model": "SteelSeries Sensei Raw",
+				"manufacturer": "Steelseries"
+			},
+			"display": {
+				"model": "Asus VP228H",
+				"manufacturer": "Asus",
+				"screenSize": "22 inch"
+			}
 		},
-		{
-			"name": "Gaming PC 2017 Model - C",
-			"specs": {
-				"cpu": {
-					"model": "Intel Core i3-6100",
-					"manufacturer": "Intel",
-					"clock": "3.7 Ghz",
-					"socket": "LGA1151"
-				},
-				"motherboard": {
-					"model": "Asus Z170-K (LGA1151,Z170, DDR4)",
-					"manufacturer": "Asus",
-					"chipset": "Intel Z170"
-				},
-				"memory": {
-					"model": "Gskill DDR4 RipjawsV F4-2400C15S-8GVR",
-					"manufacturer": "Gskill",
-					"DDR": 4,
-					"PC": 19200,
-					"capacity": "8GB"
-				},
-				"storages": [
-					{
-						"model": "Samsung SSD 750 EVO",
-						"manufacturer": "Samsung",
-						"type": "ssd",
-						"subtype": "SATA",
-						"capacity": "120GB"
-					}
-				],
-				"gpu": {
-					"model": "Asus GeForce GTX 1050 Ti 4GB DDR5 Phoenix - PH-GTX1050TI",
-					"manufacturer": "ASUS",
-					"chipset": "Nvidia GTX1050 Ti",
-					"memorySize": "4GB"
-				},
-				"casing": {
-					"model": "Corsair Carbide SPEC-01",
-					"formFactor": "mid tower",
-					"manufacturer": "Corsair"
-				},
-				"PSU": {
-					"model": "Corsair RM650X (Fully Modular, 80 Plus Gold Certified)",
-					"manufacturer": "Corsair",
-					"wattage": 650
-				},
-				"keyboard": {
-					"model": "SteelSeries 6G V2 (US)",
-					"manufacturer": "Steelseries"
-				},
-				"mouse": {
-					"model": "SteelSeries Sensei Raw",
-					"manufacturer": "Steelseries"
-				},
-				"display": {
-					"model": "Asus VP228H",
-					"manufacturer": "Asus",
-					"screenSize": "22 inch"
-				}
+		"price": 1100,
+		"inStock": true
+	},
+	{
+		"name": "Gaming PC 2017 Model - C",
+		"specs": {
+			"cpu": {
+				"model": "Intel Core i3-6100",
+				"manufacturer": "Intel",
+				"clock": "3.7 Ghz",
+				"socket": "LGA1151"
 			},
-			"price": 1080,
-			"inStock": true
+			"motherboard": {
+				"model": "Asus Z170-K (LGA1151,Z170, DDR4)",
+				"manufacturer": "Asus",
+				"chipset": "Intel Z170"
+			},
+			"memory": {
+				"model": "Gskill DDR4 RipjawsV F4-2400C15S-8GVR",
+				"manufacturer": "Gskill",
+				"DDR": 4,
+				"PC": 19200,
+				"capacity": "8GB"
+			},
+			"storages": [
+				{
+					"model": "Samsung SSD 750 EVO",
+					"manufacturer": "Samsung",
+					"type": "ssd",
+					"subtype": "SATA",
+					"capacity": "120GB"
+				}
+			],
+			"gpu": {
+				"model": "Asus GeForce GTX 1050 Ti 4GB DDR5 Phoenix - PH-GTX1050TI",
+				"manufacturer": "ASUS",
+				"chipset": "Nvidia GTX1050 Ti",
+				"memorySize": "4GB"
+			},
+			"casing": {
+				"model": "Corsair Carbide SPEC-01",
+				"formFactor": "mid tower",
+				"manufacturer": "Corsair"
+			},
+			"PSU": {
+				"model": "Corsair RM650X (Fully Modular, 80 Plus Gold Certified)",
+				"manufacturer": "Corsair",
+				"wattage": 650
+			},
+			"keyboard": {
+				"model": "SteelSeries 6G V2 (US)",
+				"manufacturer": "Steelseries"
+			},
+			"mouse": {
+				"model": "SteelSeries Sensei Raw",
+				"manufacturer": "Steelseries"
+			},
+			"display": {
+				"model": "Asus VP228H",
+				"manufacturer": "Asus",
+				"screenSize": "22 inch"
+			}
 		},
-		{
-			"name": "Gaming PC 2017 Model - D",
-			"specs": {
-				"cpu": {
-					"model": "AMD Godavari A8-7670K",
-					"manufacturer": "AMD",
-					"clock": "3.6 Ghz",
-					"socket": "FM2+"
-				},
-				"motherboard": {
-					"model": "ASUS A88X - Gamer (FM2+, A88, DDR3)",
-					"manufacturer": "ASUS",
-					"chipset": "AMD Bolton D4"
-				},
-				"memory": {
-					"model": "Gskill DDR3 RipjawsX PC19200 8GB Dual Channel F3-2400C11D-8GXM",
-					"manufacturer": "Gskill",
-					"DDR": 3,
-					"PC": 2400,
-					"capacity": "2x4GB"
-				},
-				"storages": [
-					{
-						"model": "Samsung SSD 750 EVO",
-						"manufacturer": "Samsung",
-						"type": "ssd",
-						"subtype": "SATA",
-						"capacity": "120GB"
-					}
-				],
-				"gpu": {
-					"model": "Integrated AMD Radeon R7",
-					"manufacturer": "AMD",
-					"chipset": "AMD Radeon R7 series",
-					"memorySize": "Up to available system memory"
-				},
-				"casing": {
-					"model": "Corsair Carbide SPEC-01",
-					"formFactor": "mid tower",
-					"manufacturer": "Corsair"
-				},
-				"PSU": {
-					"model": "Corsair RM550X",
-					"manufacturer": "Corsair",
-					"wattage": 550
-				},
-				"keyboard": {
-					"model": "SteelSeries 6G V2 (US)",
-					"manufacturer": "Steelseries"
-				},
-				"mouse": {
-					"model": "SteelSeries Sensei Raw",
-					"manufacturer": "Steelseries"
-				},
-				"display": {
-					"model": "Asus VP228H",
-					"manufacturer": "Asus",
-					"screenSize": "22 inch"
-				}
+		"price": 1080,
+		"inStock": true
+	},
+	{
+		"name": "Gaming PC 2017 Model - D",
+		"specs": {
+			"cpu": {
+				"model": "AMD Godavari A8-7670K",
+				"manufacturer": "AMD",
+				"clock": "3.6 Ghz",
+				"socket": "FM2+"
 			},
-			"price": 850,
-			"inStock": true
+			"motherboard": {
+				"model": "ASUS A88X - Gamer (FM2+, A88, DDR3)",
+				"manufacturer": "ASUS",
+				"chipset": "AMD Bolton D4"
+			},
+			"memory": {
+				"model": "Gskill DDR3 RipjawsX PC19200 8GB Dual Channel F3-2400C11D-8GXM",
+				"manufacturer": "Gskill",
+				"DDR": 3,
+				"PC": 2400,
+				"capacity": "2x4GB"
+			},
+			"storages": [
+				{
+					"model": "Samsung SSD 750 EVO",
+					"manufacturer": "Samsung",
+					"type": "ssd",
+					"subtype": "SATA",
+					"capacity": "120GB"
+				}
+			],
+			"gpu": {
+				"model": "Integrated AMD Radeon R7",
+				"manufacturer": "AMD",
+				"chipset": "AMD Radeon R7 series",
+				"memorySize": "Up to available system memory"
+			},
+			"casing": {
+				"model": "Corsair Carbide SPEC-01",
+				"formFactor": "mid tower",
+				"manufacturer": "Corsair"
+			},
+			"PSU": {
+				"model": "Corsair RM550X",
+				"manufacturer": "Corsair",
+				"wattage": 550
+			},
+			"keyboard": {
+				"model": "SteelSeries 6G V2 (US)",
+				"manufacturer": "Steelseries"
+			},
+			"mouse": {
+				"model": "SteelSeries Sensei Raw",
+				"manufacturer": "Steelseries"
+			},
+			"display": {
+				"model": "Asus VP228H",
+				"manufacturer": "Asus",
+				"screenSize": "22 inch"
+			}
 		},
-		{
-			"name": "Gaming PC 2017 Model - E",
-			"specs": {
-				"cpu": {
-					"model": "AMD Godavari A10-7870K",
-					"manufacturer": "AMD",
-					"clock": "3.9 Ghz",
-					"socket": "FM2+"
-				},
-				"motherboard": {
-					"model": "ASUS A88X - Gamer (FM2+, A88, DDR3)",
-					"manufacturer": "ASUS",
-					"chipset": "AMD Bolton D4"
-				},
-				"memory": {
-					"model": "Gskill DDR3 RipjawsX PC19200 8GB Dual Channel F3-2400C11D-8GXM",
-					"manufacturer": "Gskill",
-					"DDR": 3,
-					"PC": 2400,
-					"capacity": "2x4GB"
-				},
-				"storages": [
-					{
-						"model": "Samsung SSD 750 EVO",
-						"manufacturer": "Samsung",
-						"type": "ssd",
-						"subtype": "SATA",
-						"capacity": "120GB"
-					}
-				],
-				"gpu": {
-					"model": "Integrated AMD Radeon R7",
-					"manufacturer": "AMD",
-					"chipset": "AMD Radeon R7 series",
-					"memorySize": "Up to available system memory"
-				},
-				"casing": {
-					"model": "Corsair Carbide SPEC-01",
-					"formFactor": "mid tower",
-					"manufacturer": "Corsair"
-				},
-				"PSU": {
-					"model": "Corsair RM550X",
-					"manufacturer": "Corsair",
-					"wattage": 550
-				},
-				"keyboard": {
-					"model": "SteelSeries 6G V2",
-					"manufacturer": "Steelseries"
-				},
-				"mouse": {
-					"model": "SteelSeries Sensei Raw",
-					"manufacturer": "Steelseries"
-				},
-				"display": {
-					"model": "Asus VP228H",
-					"manufacturer": "Asus",
-					"screenSize": "22 inch"
-				}
+		"price": 850,
+		"inStock": true
+	},
+	{
+		"name": "Gaming PC 2017 Model - E",
+		"specs": {
+			"cpu": {
+				"model": "AMD Godavari A10-7870K",
+				"manufacturer": "AMD",
+				"clock": "3.9 Ghz",
+				"socket": "FM2+"
 			},
-			"price": 880,
-			"inStock": true
+			"motherboard": {
+				"model": "ASUS A88X - Gamer (FM2+, A88, DDR3)",
+				"manufacturer": "ASUS",
+				"chipset": "AMD Bolton D4"
+			},
+			"memory": {
+				"model": "Gskill DDR3 RipjawsX PC19200 8GB Dual Channel F3-2400C11D-8GXM",
+				"manufacturer": "Gskill",
+				"DDR": 3,
+				"PC": 2400,
+				"capacity": "2x4GB"
+			},
+			"storages": [
+				{
+					"model": "Samsung SSD 750 EVO",
+					"manufacturer": "Samsung",
+					"type": "ssd",
+					"subtype": "SATA",
+					"capacity": "120GB"
+				}
+			],
+			"gpu": {
+				"model": "Integrated AMD Radeon R7",
+				"manufacturer": "AMD",
+				"chipset": "AMD Radeon R7 series",
+				"memorySize": "Up to available system memory"
+			},
+			"casing": {
+				"model": "Corsair Carbide SPEC-01",
+				"formFactor": "mid tower",
+				"manufacturer": "Corsair"
+			},
+			"PSU": {
+				"model": "Corsair RM550X",
+				"manufacturer": "Corsair",
+				"wattage": 550
+			},
+			"keyboard": {
+				"model": "SteelSeries 6G V2",
+				"manufacturer": "Steelseries"
+			},
+			"mouse": {
+				"model": "SteelSeries Sensei Raw",
+				"manufacturer": "Steelseries"
+			},
+			"display": {
+				"model": "Asus VP228H",
+				"manufacturer": "Asus",
+				"screenSize": "22 inch"
+			}
 		},
-		{
-			"name": "Gaming PC 2017 Model - F",
-			"specs": {
-				"cpu": {
-					"model": "AMD Godavari A10-7890K",
-					"manufacturer": "AMD",
-					"clock": "4.3 Ghz"
-				},
-				"motherboard": {
-					"model": "ASUS A88X - Gamer (FM2+, A88, DDR3)",
-					"manufacturer": "ASUS",
-					"chipset": "AMD Bolton D4"
-				},
-				"memory": {
-					"model": "Gskill DDR3 RipjawsX PC19200 8GB Dual Channel F3-2400C11D-8GXM",
-					"manufacturer": "Gskill",
-					"DDR": 3,
-					"PC": 2400,
-					"capacity": "2x4GB"
-				},
-				"storages": [
-					{
-						"model": "Samsung SSD 750 EVO",
-						"manufacturer": "Samsung",
-						"type": "ssd",
-						"subtype": "SATA",
-						"capacity": "120GB"
-					}
-				],
-				"gpu": {
-					"model": "Integrated AMD Radeon R7",
-					"manufacturer": "AMD",
-					"chipset": "AMD Radeon R7 series",
-					"memorySize": "Up to available system memory"
-				},
-				"casing": {
-					"model": "Corsair Carbide SPEC-01",
-					"formFactor": "mid tower",
-					"manufacturer": "Corsair"
-				},
-				"PSU": {
-					"model": "Corsair RM550X",
-					"manufacturer": "Corsair",
-					"wattage": 550
-				},
-				"keyboard": {
-					"model": "SteelSeries 6G V2",
-					"manufacturer": "Steelseries"
-				},
-				"mouse": {
-					"model": "SteelSeries Sensei Raw",
-					"manufacturer": "Steelseries"
-				},
-				"display": {
-					"model": "Asus VP228H",
-					"manufacturer": "Asus",
-					"screenSize": "22 inch"
-				}
+		"price": 880,
+		"inStock": true
+	},
+	{
+		"name": "Gaming PC 2017 Model - F",
+		"specs": {
+			"cpu": {
+				"model": "AMD Godavari A10-7890K",
+				"manufacturer": "AMD",
+				"clock": "4.3 Ghz"
 			},
-			"price": 910,
-			"inStock": true
+			"motherboard": {
+				"model": "ASUS A88X - Gamer (FM2+, A88, DDR3)",
+				"manufacturer": "ASUS",
+				"chipset": "AMD Bolton D4"
+			},
+			"memory": {
+				"model": "Gskill DDR3 RipjawsX PC19200 8GB Dual Channel F3-2400C11D-8GXM",
+				"manufacturer": "Gskill",
+				"DDR": 3,
+				"PC": 2400,
+				"capacity": "2x4GB"
+			},
+			"storages": [
+				{
+					"model": "Samsung SSD 750 EVO",
+					"manufacturer": "Samsung",
+					"type": "ssd",
+					"subtype": "SATA",
+					"capacity": "120GB"
+				}
+			],
+			"gpu": {
+				"model": "Integrated AMD Radeon R7",
+				"manufacturer": "AMD",
+				"chipset": "AMD Radeon R7 series",
+				"memorySize": "Up to available system memory"
+			},
+			"casing": {
+				"model": "Corsair Carbide SPEC-01",
+				"formFactor": "mid tower",
+				"manufacturer": "Corsair"
+			},
+			"PSU": {
+				"model": "Corsair RM550X",
+				"manufacturer": "Corsair",
+				"wattage": 550
+			},
+			"keyboard": {
+				"model": "SteelSeries 6G V2",
+				"manufacturer": "Steelseries"
+			},
+			"mouse": {
+				"model": "SteelSeries Sensei Raw",
+				"manufacturer": "Steelseries"
+			},
+			"display": {
+				"model": "Asus VP228H",
+				"manufacturer": "Asus",
+				"screenSize": "22 inch"
+			}
 		},
-		{
-			"name": "Gaming PC 2017 Model - G",
-			"specs": {
-				"cpu": {
-					"model": "Intel Core i5-6400 2.7Ghz Sklylake",
-					"manufacturer": "Intel",
-					"clock": "2.7Ghz",
-					"socket": "LGA1151"
-				},
-				"motherboard": {
-					"model": "Asus ROG STRIX Z270G Gaming",
-					"manufacturer": "Asus",
-					"chipset": "Intel Z270"
-				},
-				"memory": {
-					"model": "Gskill DDR4 RipjawsV PC21300 16GB Dual Channel F4-2666C15D-16GVB",
-					"manufacturer": "Gskill",
-					"DDR": 4,
-					"PC": 21300,
-					"capacity": "2x8GB"
-				},
-				"storages": [
-					{
-						"model": "Samsung SSD 850 EVO",
-						"manufacturer": "Samsung",
-						"type": "SSD",
-						"subtype": "SATA",
-						"capacity": "250GB"
-					}
-				],
-				"gpu": {
-					"model": "Asus GeForce GTX 1060 3GB DDR5 Dual",
-					"manufacturer": "ASUS",
-					"chipset": "Nvidia GTX1060",
-					"memorySize": "3GB"
-				},
-				"casing": {
-					"model": "Corsair Carbide SPEC-01",
-					"formFactor": "mid tower",
-					"manufacturer": "Corsair"
-				},
-				"PSU": {
-					"model": "Corsair RM650i",
-					"manufacturer": "Corsair",
-					"wattage": 650
-				},
-				"keyboard": {
-					"model": "SteelSeries 6G V2 (US) Red Switch",
-					"manufacturer": "Steelseries"
-				},
-				"mouse": {
-					"model": "SteelSeries Sensei Raw",
-					"manufacturer": "Steelseries"
-				},
-				"display": {
-					"model": "ASUS VC239H",
-					"manufacturer": "Asus",
-					"screenSize": "23 inch"
-				}
+		"price": 910,
+		"inStock": true
+	},
+	{
+		"name": "Gaming PC 2017 Model - G",
+		"specs": {
+			"cpu": {
+				"model": "Intel Core i5-6400 2.7Ghz Sklylake",
+				"manufacturer": "Intel",
+				"clock": "2.7Ghz",
+				"socket": "LGA1151"
 			},
-			"price": 1520,
-			"inStock": true
+			"motherboard": {
+				"model": "Asus ROG STRIX Z270G Gaming",
+				"manufacturer": "Asus",
+				"chipset": "Intel Z270"
+			},
+			"memory": {
+				"model": "Gskill DDR4 RipjawsV PC21300 16GB Dual Channel F4-2666C15D-16GVB",
+				"manufacturer": "Gskill",
+				"DDR": 4,
+				"PC": 21300,
+				"capacity": "2x8GB"
+			},
+			"storages": [
+				{
+					"model": "Samsung SSD 850 EVO",
+					"manufacturer": "Samsung",
+					"type": "SSD",
+					"subtype": "SATA",
+					"capacity": "250GB"
+				}
+			],
+			"gpu": {
+				"model": "Asus GeForce GTX 1060 3GB DDR5 Dual",
+				"manufacturer": "ASUS",
+				"chipset": "Nvidia GTX1060",
+				"memorySize": "3GB"
+			},
+			"casing": {
+				"model": "Corsair Carbide SPEC-01",
+				"formFactor": "mid tower",
+				"manufacturer": "Corsair"
+			},
+			"PSU": {
+				"model": "Corsair RM650i",
+				"manufacturer": "Corsair",
+				"wattage": 650
+			},
+			"keyboard": {
+				"model": "SteelSeries 6G V2 (US) Red Switch",
+				"manufacturer": "Steelseries"
+			},
+			"mouse": {
+				"model": "SteelSeries Sensei Raw",
+				"manufacturer": "Steelseries"
+			},
+			"display": {
+				"model": "ASUS VC239H",
+				"manufacturer": "Asus",
+				"screenSize": "23 inch"
+			}
 		},
-		{
-			"name": "Gaming PC 2017 Model - H",
-			"specs": {
-				"cpu": {
-					"model": "Intel Core i5-6500 3.2Ghz Sklylake",
-					"manufacturer": "Intel",
-					"clock": "2.7Ghz",
-					"socket": "LGA1151"
-				},
-				"motherboard": {
-					"model": "Asus ROG STRIX Z270G Gaming",
-					"manufacturer": "Asus",
-					"chipset": "Intel Z270"
-				},
-				"memory": {
-					"model": "Gskill DDR4 RipjawsV PC21300 16GB Dual Channel F4-2666C15D-16GVB",
-					"manufacturer": "Gskill",
-					"DDR": 4,
-					"PC": 21300,
-					"capacity": "2x8GB"
-				},
-				"storages": [
-					{
-						"model": "Samsung SSD 850 EVO",
-						"manufacturer": "Samsung",
-						"type": "SSD",
-						"subtype": "SATA",
-						"capacity": "250GB"
-					}
-				],
-				"gpu": {
-					"model": "Asus GeForce GTX 1060 3GB DDR5 Dual",
-					"manufacturer": "ASUS",
-					"chipset": "Nvidia GTX1060",
-					"memorySize": "3GB"
-				},
-				"casing": {
-					"model": "Corsair Carbide SPEC-01",
-					"formFactor": "mid tower",
-					"manufacturer": "Corsair"
-				},
-				"PSU": {
-					"model": "Corsair RM650i",
-					"manufacturer": "Corsair",
-					"wattage": 650
-				},
-				"keyboard": {
-					"model": "SteelSeries 6G V2 (US) Red Switch",
-					"manufacturer": "Steelseries"
-				},
-				"mouse": {
-					"model": "SteelSeries Sensei Raw",
-					"manufacturer": "Steelseries"
-				},
-				"display": {
-					"model": "ASUS VC239H",
-					"manufacturer": "Asus",
-					"screenSize": "23 inch"
-				}
+		"price": 1520,
+		"inStock": true
+	},
+	{
+		"name": "Gaming PC 2017 Model - H",
+		"specs": {
+			"cpu": {
+				"model": "Intel Core i5-6500 3.2Ghz Sklylake",
+				"manufacturer": "Intel",
+				"clock": "2.7Ghz",
+				"socket": "LGA1151"
 			},
-			"price": 1540,
-			"inStock": true
+			"motherboard": {
+				"model": "Asus ROG STRIX Z270G Gaming",
+				"manufacturer": "Asus",
+				"chipset": "Intel Z270"
+			},
+			"memory": {
+				"model": "Gskill DDR4 RipjawsV PC21300 16GB Dual Channel F4-2666C15D-16GVB",
+				"manufacturer": "Gskill",
+				"DDR": 4,
+				"PC": 21300,
+				"capacity": "2x8GB"
+			},
+			"storages": [
+				{
+					"model": "Samsung SSD 850 EVO",
+					"manufacturer": "Samsung",
+					"type": "SSD",
+					"subtype": "SATA",
+					"capacity": "250GB"
+				}
+			],
+			"gpu": {
+				"model": "Asus GeForce GTX 1060 3GB DDR5 Dual",
+				"manufacturer": "ASUS",
+				"chipset": "Nvidia GTX1060",
+				"memorySize": "3GB"
+			},
+			"casing": {
+				"model": "Corsair Carbide SPEC-01",
+				"formFactor": "mid tower",
+				"manufacturer": "Corsair"
+			},
+			"PSU": {
+				"model": "Corsair RM650i",
+				"manufacturer": "Corsair",
+				"wattage": 650
+			},
+			"keyboard": {
+				"model": "SteelSeries 6G V2 (US) Red Switch",
+				"manufacturer": "Steelseries"
+			},
+			"mouse": {
+				"model": "SteelSeries Sensei Raw",
+				"manufacturer": "Steelseries"
+			},
+			"display": {
+				"model": "ASUS VC239H",
+				"manufacturer": "Asus",
+				"screenSize": "23 inch"
+			}
 		},
-		{
-			"name": "Gaming PC 2017 Model - I",
-			"specs": {
-				"cpu": {
-					"model": "Intel Core i5-6600 3.3Ghz Skylake",
-					"manufacturer": "Intel",
-					"clock": "2.7Ghz",
-					"socket": "LGA1151"
-				},
-				"motherboard": {
-					"model": "Asus ROG STRIX Z270G Gaming",
-					"manufacturer": "Asus",
-					"chipset": "Intel Z270"
-				},
-				"memory": {
-					"model": "Gskill DDR4 RipjawsV PC21300 16GB Dual Channel F4-2666C15D-16GVB",
-					"manufacturer": "Gskill",
-					"DDR": 4,
-					"PC": 21300,
-					"capacity": "2x8GB"
-				},
-				"storages": [
-					{
-						"model": "Samsung SSD 850 EVO",
-						"manufacturer": "Samsung",
-						"type": "SSD",
-						"subtype": "SATA",
-						"capacity": "250GB"
-					}
-				],
-				"gpu": {
-					"model": "Asus GeForce GTX 1060 3GB DDR5 Dual",
-					"manufacturer": "ASUS",
-					"chipset": "Nvidia GTX1060",
-					"memorySize": "3GB"
-				},
-				"casing": {
-					"model": "Corsair Carbide SPEC-01",
-					"formFactor": "mid tower",
-					"manufacturer": "Corsair"
-				},
-				"PSU": {
-					"model": "Corsair RM650i",
-					"manufacturer": "Corsair",
-					"wattage": 650
-				},
-				"keyboard": {
-					"model": "SteelSeries 6G V2 (US) Red Switch",
-					"manufacturer": "Steelseries"
-				},
-				"mouse": {
-					"model": "SteelSeries Sensei Raw",
-					"manufacturer": "Steelseries"
-				},
-				"display": {
-					"model": "ASUS VC239H",
-					"manufacturer": "Asus",
-					"screenSize": "23 inch"
-				}
+		"price": 1540,
+		"inStock": true
+	},
+	{
+		"name": "Gaming PC 2017 Model - I",
+		"specs": {
+			"cpu": {
+				"model": "Intel Core i5-6600 3.3Ghz Skylake",
+				"manufacturer": "Intel",
+				"clock": "2.7Ghz",
+				"socket": "LGA1151"
 			},
-			"price": 1565,
-			"inStock": true
+			"motherboard": {
+				"model": "Asus ROG STRIX Z270G Gaming",
+				"manufacturer": "Asus",
+				"chipset": "Intel Z270"
+			},
+			"memory": {
+				"model": "Gskill DDR4 RipjawsV PC21300 16GB Dual Channel F4-2666C15D-16GVB",
+				"manufacturer": "Gskill",
+				"DDR": 4,
+				"PC": 21300,
+				"capacity": "2x8GB"
+			},
+			"storages": [
+				{
+					"model": "Samsung SSD 850 EVO",
+					"manufacturer": "Samsung",
+					"type": "SSD",
+					"subtype": "SATA",
+					"capacity": "250GB"
+				}
+			],
+			"gpu": {
+				"model": "Asus GeForce GTX 1060 3GB DDR5 Dual",
+				"manufacturer": "ASUS",
+				"chipset": "Nvidia GTX1060",
+				"memorySize": "3GB"
+			},
+			"casing": {
+				"model": "Corsair Carbide SPEC-01",
+				"formFactor": "mid tower",
+				"manufacturer": "Corsair"
+			},
+			"PSU": {
+				"model": "Corsair RM650i",
+				"manufacturer": "Corsair",
+				"wattage": 650
+			},
+			"keyboard": {
+				"model": "SteelSeries 6G V2 (US) Red Switch",
+				"manufacturer": "Steelseries"
+			},
+			"mouse": {
+				"model": "SteelSeries Sensei Raw",
+				"manufacturer": "Steelseries"
+			},
+			"display": {
+				"model": "ASUS VC239H",
+				"manufacturer": "Asus",
+				"screenSize": "23 inch"
+			}
 		},
-		{
-			"name": "Gaming PC 2017 Model - J",
-			"specs": {
-				"cpu": {
-					"model": "AMD Carrizo Athlon X4-845 Quad Core",
-					"manufacturer": "AMD",
-					"clock": "3.1Ghz",
-					"socket": "FM2+"
-				},
-				"motherboard": {
-					"model": "ASUS A88X - Gamer (FM2+, A88, DDR3)",
-					"manufacturer": "ASUS",
-					"chipset": "AMD Bolton D4"
-				},
-				"memory": {
-					"model": "Gskill DDR3 RipjawsX PC19200 16GB Dual Channel F3-2400C11D-16GXM",
-					"manufacturer": "Gskill",
-					"DDR": 3,
-					"PC": 19200,
-					"capacity": "2x8GB"
-				},
-				"storages": [
-					{
-						"model": "Samsung SSD 850 EVO",
-						"manufacturer": "Samsung",
-						"type": "SSD",
-						"subtype": "SATA",
-						"capacity": "250GB"
-					}
-				],
-				"gpu": {
-					"model": "Asus GeForce GTX 1060 3GB DDR5 Dual",
-					"manufacturer": "ASUS",
-					"chipset": "Nvidia GTX1060",
-					"memorySize": "3GB"
-				},
-				"casing": {
-					"model": "Corsair Carbide SPEC-01",
-					"formFactor": "mid tower",
-					"manufacturer": "Corsair"
-				},
-				"PSU": {
-					"model": "Corsair RM650i",
-					"manufacturer": "Corsair",
-					"wattage": 650
-				},
-				"keyboard": {
-					"model": "SteelSeries 6G V2 (US) Red Switch",
-					"manufacturer": "Steelseries"
-				},
-				"mouse": {
-					"model": "SteelSeries Sensei Raw",
-					"manufacturer": "Steelseries"
-				},
-				"display": {
-					"model": "ASUS VC239H",
-					"manufacturer": "Asus",
-					"screenSize": "23 inch"
-				}
+		"price": 1565,
+		"inStock": true
+	},
+	{
+		"name": "Gaming PC 2017 Model - J",
+		"specs": {
+			"cpu": {
+				"model": "AMD Carrizo Athlon X4-845 Quad Core",
+				"manufacturer": "AMD",
+				"clock": "3.1Ghz",
+				"socket": "FM2+"
 			},
-			"price": 1265,
-			"inStock": true
+			"motherboard": {
+				"model": "ASUS A88X - Gamer (FM2+, A88, DDR3)",
+				"manufacturer": "ASUS",
+				"chipset": "AMD Bolton D4"
+			},
+			"memory": {
+				"model": "Gskill DDR3 RipjawsX PC19200 16GB Dual Channel F3-2400C11D-16GXM",
+				"manufacturer": "Gskill",
+				"DDR": 3,
+				"PC": 19200,
+				"capacity": "2x8GB"
+			},
+			"storages": [
+				{
+					"model": "Samsung SSD 850 EVO",
+					"manufacturer": "Samsung",
+					"type": "SSD",
+					"subtype": "SATA",
+					"capacity": "250GB"
+				}
+			],
+			"gpu": {
+				"model": "Asus GeForce GTX 1060 3GB DDR5 Dual",
+				"manufacturer": "ASUS",
+				"chipset": "Nvidia GTX1060",
+				"memorySize": "3GB"
+			},
+			"casing": {
+				"model": "Corsair Carbide SPEC-01",
+				"formFactor": "mid tower",
+				"manufacturer": "Corsair"
+			},
+			"PSU": {
+				"model": "Corsair RM650i",
+				"manufacturer": "Corsair",
+				"wattage": 650
+			},
+			"keyboard": {
+				"model": "SteelSeries 6G V2 (US) Red Switch",
+				"manufacturer": "Steelseries"
+			},
+			"mouse": {
+				"model": "SteelSeries Sensei Raw",
+				"manufacturer": "Steelseries"
+			},
+			"display": {
+				"model": "ASUS VC239H",
+				"manufacturer": "Asus",
+				"screenSize": "23 inch"
+			}
 		},
-		{
-			"name": "Gaming PC 2017 Model - K",
-			"specs": {
-				"cpu": {
-					"model": "AMD Athlon X4 860K Kaveri Quad-Core",
-					"manufacturer": "",
-					"clock": "3.7 GHz",
-					"socket": "FM2+"
-				},
-				"motherboard": {
-					"model": "ASUS A88X - Gamer (FM2+, A88, DDR3)",
-					"manufacturer": "ASUS",
-					"chipset": "AMD Bolton D4"
-				},
-				"memory": {
-					"model": "Gskill DDR3 RipjawsX PC19200 16GB Dual Channel F3-2400C11D-16GXM",
-					"manufacturer": "Gskill",
-					"DDR": 3,
-					"PC": 19200,
-					"capacity": "2x8GB"
-				},
-				"storages": [
-					{
-						"model": "Samsung SSD 850 EVO",
-						"manufacturer": "Samsung",
-						"type": "SSD",
-						"subtype": "SATA",
-						"capacity": "250GB"
-					}
-				],
-				"gpu": {
-					"model": "Asus GeForce GTX 1060 3GB DDR5 Dual",
-					"manufacturer": "ASUS",
-					"chipset": "Nvidia GTX1060",
-					"memorySize": "3GB"
-				},
-				"casing": {
-					"model": "Corsair Carbide SPEC-01",
-					"formFactor": "mid tower",
-					"manufacturer": "Corsair"
-				},
-				"PSU": {
-					"model": "Corsair RM650i",
-					"manufacturer": "Corsair",
-					"wattage": 650
-				},
-				"keyboard": {
-					"model": "SteelSeries 6G V2 (US) Red Switch",
-					"manufacturer": "Steelseries"
-				},
-				"mouse": {
-					"model": "SteelSeries Sensei Raw",
-					"manufacturer": "Steelseries"
-				},
-				"display": {
-					"model": "ASUS VC239H",
-					"manufacturer": "Asus",
-					"screenSize": "23 inch"
-				}
+		"price": 1265,
+		"inStock": true
+	},
+	{
+		"name": "Gaming PC 2017 Model - K",
+		"specs": {
+			"cpu": {
+				"model": "AMD Athlon X4 860K Kaveri Quad-Core",
+				"manufacturer": "",
+				"clock": "3.7 GHz",
+				"socket": "FM2+"
 			},
-			"price": 1275,
-			"inStock": true
+			"motherboard": {
+				"model": "ASUS A88X - Gamer (FM2+, A88, DDR3)",
+				"manufacturer": "ASUS",
+				"chipset": "AMD Bolton D4"
+			},
+			"memory": {
+				"model": "Gskill DDR3 RipjawsX PC19200 16GB Dual Channel F3-2400C11D-16GXM",
+				"manufacturer": "Gskill",
+				"DDR": 3,
+				"PC": 19200,
+				"capacity": "2x8GB"
+			},
+			"storages": [
+				{
+					"model": "Samsung SSD 850 EVO",
+					"manufacturer": "Samsung",
+					"type": "SSD",
+					"subtype": "SATA",
+					"capacity": "250GB"
+				}
+			],
+			"gpu": {
+				"model": "Asus GeForce GTX 1060 3GB DDR5 Dual",
+				"manufacturer": "ASUS",
+				"chipset": "Nvidia GTX1060",
+				"memorySize": "3GB"
+			},
+			"casing": {
+				"model": "Corsair Carbide SPEC-01",
+				"formFactor": "mid tower",
+				"manufacturer": "Corsair"
+			},
+			"PSU": {
+				"model": "Corsair RM650i",
+				"manufacturer": "Corsair",
+				"wattage": 650
+			},
+			"keyboard": {
+				"model": "SteelSeries 6G V2 (US) Red Switch",
+				"manufacturer": "Steelseries"
+			},
+			"mouse": {
+				"model": "SteelSeries Sensei Raw",
+				"manufacturer": "Steelseries"
+			},
+			"display": {
+				"model": "ASUS VC239H",
+				"manufacturer": "Asus",
+				"screenSize": "23 inch"
+			}
 		},
-		{
-			"name": "Gaming PC 2017 Model - L",
-			"specs": {
-				"cpu": {
-					"model": "AMD Godavari Athlon X4-870K Quad Core",
-					"manufacturer": "AMD",
-					"clock": "3.9Ghz",
-					"socket": "FM2+"
-				},
-				"motherboard": {
-					"model": "ASUS A88X - Gamer (FM2+, A88, DDR3)",
-					"manufacturer": "ASUS",
-					"chipset": "AMD Bolton D4"
-				},
-				"memory": {
-					"model": "Gskill DDR3 RipjawsX PC19200 16GB Dual Channel F3-2400C11D-16GXM",
-					"manufacturer": "Gskill",
-					"DDR": 3,
-					"PC": 19200,
-					"capacity": "2x8GB"
-				},
-				"storages": [
-					{
-						"model": "Samsung SSD 850 EVO",
-						"manufacturer": "Samsung",
-						"type": "SSD",
-						"subtype": "SATA",
-						"capacity": "250GB"
-					}
-				],
-				"gpu": {
-					"model": "Asus GeForce GTX 1060 3GB DDR5 Dual",
-					"manufacturer": "ASUS",
-					"chipset": "Nvidia GTX1060",
-					"memorySize": "3GB"
-				},
-				"casing": {
-					"model": "Corsair Carbide SPEC-01",
-					"formFactor": "mid tower",
-					"manufacturer": "Corsair"
-				},
-				"PSU": {
-					"model": "Corsair RM650i",
-					"manufacturer": "Corsair",
-					"wattage": 650
-				},
-				"keyboard": {
-					"model": "SteelSeries 6G V2 (US) Red Switch",
-					"manufacturer": "Steelseries"
-				},
-				"mouse": {
-					"model": "SteelSeries Sensei Raw",
-					"manufacturer": "Steelseries"
-				},
-				"display": {
-					"model": "ASUS VC239H",
-					"manufacturer": "Asus",
-					"screenSize": "23 inch"
-				}
+		"price": 1275,
+		"inStock": true
+	},
+	{
+		"name": "Gaming PC 2017 Model - L",
+		"specs": {
+			"cpu": {
+				"model": "AMD Godavari Athlon X4-870K Quad Core",
+				"manufacturer": "AMD",
+				"clock": "3.9Ghz",
+				"socket": "FM2+"
 			},
-			"price": 1285,
-			"inStock": true
+			"motherboard": {
+				"model": "ASUS A88X - Gamer (FM2+, A88, DDR3)",
+				"manufacturer": "ASUS",
+				"chipset": "AMD Bolton D4"
+			},
+			"memory": {
+				"model": "Gskill DDR3 RipjawsX PC19200 16GB Dual Channel F3-2400C11D-16GXM",
+				"manufacturer": "Gskill",
+				"DDR": 3,
+				"PC": 19200,
+				"capacity": "2x8GB"
+			},
+			"storages": [
+				{
+					"model": "Samsung SSD 850 EVO",
+					"manufacturer": "Samsung",
+					"type": "SSD",
+					"subtype": "SATA",
+					"capacity": "250GB"
+				}
+			],
+			"gpu": {
+				"model": "Asus GeForce GTX 1060 3GB DDR5 Dual",
+				"manufacturer": "ASUS",
+				"chipset": "Nvidia GTX1060",
+				"memorySize": "3GB"
+			},
+			"casing": {
+				"model": "Corsair Carbide SPEC-01",
+				"formFactor": "mid tower",
+				"manufacturer": "Corsair"
+			},
+			"PSU": {
+				"model": "Corsair RM650i",
+				"manufacturer": "Corsair",
+				"wattage": 650
+			},
+			"keyboard": {
+				"model": "SteelSeries 6G V2 (US) Red Switch",
+				"manufacturer": "Steelseries"
+			},
+			"mouse": {
+				"model": "SteelSeries Sensei Raw",
+				"manufacturer": "Steelseries"
+			},
+			"display": {
+				"model": "ASUS VC239H",
+				"manufacturer": "Asus",
+				"screenSize": "23 inch"
+			}
 		},
-		{
-			"name": "Gaming PC 2017 Model - M",
-			"specs": {
-				"cpu": {
-					"model": "AMD Godavari Athlon X4-880K Quad Core",
-					"manufacturer": "AMD",
-					"clock": "4.0Ghz",
-					"socket": "FM2+"
-				},
-				"motherboard": {
-					"model": "ASUS A88X - Gamer (FM2+, A88, DDR3)",
-					"manufacturer": "ASUS",
-					"chipset": "AMD Bolton D4"
-				},
-				"memory": {
-					"model": "Gskill DDR3 RipjawsX PC19200 16GB Dual Channel F3-2400C11D-16GXM",
-					"manufacturer": "Gskill",
-					"DDR": 3,
-					"PC": 19200,
-					"capacity": "2x8GB"
-				},
-				"storages": [
-					{
-						"model": "Samsung SSD 850 EVO",
-						"manufacturer": "Samsung",
-						"type": "SSD",
-						"subtype": "SATA",
-						"capacity": "250GB"
-					}
-				],
-				"gpu": {
-					"model": "Asus GeForce GTX 1060 3GB DDR5 Dual",
-					"manufacturer": "ASUS",
-					"chipset": "Nvidia GTX1060",
-					"memorySize": "3GB"
-				},
-				"casing": {
-					"model": "Corsair Carbide SPEC-01",
-					"formFactor": "mid tower",
-					"manufacturer": "Corsair"
-				},
-				"PSU": {
-					"model": "Corsair RM650i",
-					"manufacturer": "Corsair",
-					"wattage": 650
-				},
-				"keyboard": {
-					"model": "SteelSeries 6G V2 (US) Red Switch",
-					"manufacturer": "Steelseries"
-				},
-				"mouse": {
-					"model": "SteelSeries Sensei Raw",
-					"manufacturer": "Steelseries"
-				},
-				"display": {
-					"model": "ASUS VC239H",
-					"manufacturer": "Asus",
-					"screenSize": "23 inch"
-				}
+		"price": 1285,
+		"inStock": true
+	},
+	{
+		"name": "Gaming PC 2017 Model - M",
+		"specs": {
+			"cpu": {
+				"model": "AMD Godavari Athlon X4-880K Quad Core",
+				"manufacturer": "AMD",
+				"clock": "4.0Ghz",
+				"socket": "FM2+"
 			},
-			"price": 1290,
-			"inStock": true
+			"motherboard": {
+				"model": "ASUS A88X - Gamer (FM2+, A88, DDR3)",
+				"manufacturer": "ASUS",
+				"chipset": "AMD Bolton D4"
+			},
+			"memory": {
+				"model": "Gskill DDR3 RipjawsX PC19200 16GB Dual Channel F3-2400C11D-16GXM",
+				"manufacturer": "Gskill",
+				"DDR": 3,
+				"PC": 19200,
+				"capacity": "2x8GB"
+			},
+			"storages": [
+				{
+					"model": "Samsung SSD 850 EVO",
+					"manufacturer": "Samsung",
+					"type": "SSD",
+					"subtype": "SATA",
+					"capacity": "250GB"
+				}
+			],
+			"gpu": {
+				"model": "Asus GeForce GTX 1060 3GB DDR5 Dual",
+				"manufacturer": "ASUS",
+				"chipset": "Nvidia GTX1060",
+				"memorySize": "3GB"
+			},
+			"casing": {
+				"model": "Corsair Carbide SPEC-01",
+				"formFactor": "mid tower",
+				"manufacturer": "Corsair"
+			},
+			"PSU": {
+				"model": "Corsair RM650i",
+				"manufacturer": "Corsair",
+				"wattage": 650
+			},
+			"keyboard": {
+				"model": "SteelSeries 6G V2 (US) Red Switch",
+				"manufacturer": "Steelseries"
+			},
+			"mouse": {
+				"model": "SteelSeries Sensei Raw",
+				"manufacturer": "Steelseries"
+			},
+			"display": {
+				"model": "ASUS VC239H",
+				"manufacturer": "Asus",
+				"screenSize": "23 inch"
+			}
 		},
-		{
-			"name": "Gaming PC 2017 Model - N",
-			"specs": {
-				"cpu": {
-					"model": "Intel Core i5-7600 Kabylake",
-					"manufacturer": "Intel",
-					"clock": "3.5Ghz",
-					"socket": "LGA1151"
-				},
-				"motherboard": {
-					"model": "Asus ROG Maximus IX CODE (LGA1151,Z270, DDR4)",
-					"manufacturer": "Asus",
-					"chipset": "Intel Z270"
-				},
-				"memory": {
-					"model": "Gskill DDR4 RipjawsV PC21300 16GB Dual Channel F4-2666C15D-16GVB",
-					"manufacturer": "Gskill",
-					"DDR": 4,
-					"PC": 21300,
-					"capacity": "2x8GB"
-				},
-				"storages": [
-					{
-						"model": "Samsung SSD 850 EVO M.2 SATA 500GB",
-						"manufacturer": "Samsung",
-						"type": "SSD",
-						"subtype": "M.2",
-						"capacity": "500GB"
-					}
-				],
-				"gpu": {
-					"model": "Asus GeForce GTX 1070 8GB DDR5 - Strix",
-					"manufacturer": "ASUS",
-					"chipset": "Nvidia GTX1070",
-					"memorySize": "8GB"
-				},
-				"casing": {
-					"model": "Corsair Carbide SPEC-01",
-					"formFactor": "mid tower",
-					"manufacturer": "Corsair"
-				},
-				"PSU": {
-					"model": "Corsair RM750i",
-					"manufacturer": "Corsair",
-					"wattage": 750
-				},
-				"keyboard": {
-					"model": "SteelSeries 6G V2 (US) Red Switch",
-					"manufacturer": "Steelseries"
-				},
-				"mouse": {
-					"model": "SteelSeries Sensei Raw",
-					"manufacturer": "Steelseries"
-				},
-				"display": {
-					"model": "VX248H",
-					"manufacturer": "Asus",
-					"screenSize": "24 inch"
-				}
+		"price": 1290,
+		"inStock": true
+	},
+	{
+		"name": "Gaming PC 2017 Model - N",
+		"specs": {
+			"cpu": {
+				"model": "Intel Core i5-7600 Kabylake",
+				"manufacturer": "Intel",
+				"clock": "3.5Ghz",
+				"socket": "LGA1151"
 			},
-			"price": 2100,
-			"inStock": true
+			"motherboard": {
+				"model": "Asus ROG Maximus IX CODE (LGA1151,Z270, DDR4)",
+				"manufacturer": "Asus",
+				"chipset": "Intel Z270"
+			},
+			"memory": {
+				"model": "Gskill DDR4 RipjawsV PC21300 16GB Dual Channel F4-2666C15D-16GVB",
+				"manufacturer": "Gskill",
+				"DDR": 4,
+				"PC": 21300,
+				"capacity": "2x8GB"
+			},
+			"storages": [
+				{
+					"model": "Samsung SSD 850 EVO M.2 SATA 500GB",
+					"manufacturer": "Samsung",
+					"type": "SSD",
+					"subtype": "M.2",
+					"capacity": "500GB"
+				}
+			],
+			"gpu": {
+				"model": "Asus GeForce GTX 1070 8GB DDR5 - Strix",
+				"manufacturer": "ASUS",
+				"chipset": "Nvidia GTX1070",
+				"memorySize": "8GB"
+			},
+			"casing": {
+				"model": "Corsair Carbide SPEC-01",
+				"formFactor": "mid tower",
+				"manufacturer": "Corsair"
+			},
+			"PSU": {
+				"model": "Corsair RM750i",
+				"manufacturer": "Corsair",
+				"wattage": 750
+			},
+			"keyboard": {
+				"model": "SteelSeries 6G V2 (US) Red Switch",
+				"manufacturer": "Steelseries"
+			},
+			"mouse": {
+				"model": "SteelSeries Sensei Raw",
+				"manufacturer": "Steelseries"
+			},
+			"display": {
+				"model": "VX248H",
+				"manufacturer": "Asus",
+				"screenSize": "24 inch"
+			}
 		},
-		{
-			"name": "Gaming PC 2017 Model - O",
-			"specs": {
-				"cpu": {
-					"model": "Intel Core i7-6700 Skylake",
-					"manufacturer": "Intel",
-					"clock": "3.4Ghz",
-					"socket": "LGA1151"
-				},
-				"motherboard": {
-					"model": "Asus ROG Maximus IX CODE (LGA1151,Z270, DDR4)",
-					"manufacturer": "Asus",
-					"chipset": "Intel Z270"
-				},
-				"memory": {
-					"model": "Gskill DDR4 TridentZ PC25600 32GB Dual Channel F4-3200C16D-32GTZKW",
-					"manufacturer": "Gskill",
-					"DDR": 4,
-					"PC": 25600,
-					"capacity": "2x16GB"
-				},
-				"storages": [
-					{
-						"model": "Samsung SSD 950 PRO M.2 PCI-Express 3.0 x4 MZ-V5P512BW ",
-						"manufacturer": "Samsung",
-						"type": "SSD",
-						"subtype": "nvme PCI-Express",
-						"capacity": "512GB"
-					}
-				],
-				"gpu": {
-					"model": "Asus GeForce GTX 1070 8GB DDR5 - Strix",
-					"manufacturer": "ASUS",
-					"chipset": "Nvidia GTX1070",
-					"memorySize": "8GB"
-				},
-				"casing": {
-					"model": "Corsair Carbide SPEC-01",
-					"formFactor": "mid tower",
-					"manufacturer": "Corsair"
-				},
-				"PSU": {
-					"model": "Corsair RM750i",
-					"manufacturer": "Corsair",
-					"wattage": 750
-				},
-				"keyboard": {
-					"model": "SteelSeries 6G V2 (US) Red Switch",
-					"manufacturer": "Steelseries"
-				},
-				"mouse": {
-					"model": "SteelSeries Sensei Raw",
-					"manufacturer": "Steelseries"
-				},
-				"display": {
-					"model": "VX248H",
-					"manufacturer": "Asus",
-					"screenSize": "24 inch"
-				}
+		"price": 2100,
+		"inStock": true
+	},
+	{
+		"name": "Gaming PC 2017 Model - O",
+		"specs": {
+			"cpu": {
+				"model": "Intel Core i7-6700 Skylake",
+				"manufacturer": "Intel",
+				"clock": "3.4Ghz",
+				"socket": "LGA1151"
 			},
-			"price": 2320,
-			"inStock": true
+			"motherboard": {
+				"model": "Asus ROG Maximus IX CODE (LGA1151,Z270, DDR4)",
+				"manufacturer": "Asus",
+				"chipset": "Intel Z270"
+			},
+			"memory": {
+				"model": "Gskill DDR4 TridentZ PC25600 32GB Dual Channel F4-3200C16D-32GTZKW",
+				"manufacturer": "Gskill",
+				"DDR": 4,
+				"PC": 25600,
+				"capacity": "2x16GB"
+			},
+			"storages": [
+				{
+					"model": "Samsung SSD 950 PRO M.2 PCI-Express 3.0 x4 MZ-V5P512BW ",
+					"manufacturer": "Samsung",
+					"type": "SSD",
+					"subtype": "nvme PCI-Express",
+					"capacity": "512GB"
+				}
+			],
+			"gpu": {
+				"model": "Asus GeForce GTX 1070 8GB DDR5 - Strix",
+				"manufacturer": "ASUS",
+				"chipset": "Nvidia GTX1070",
+				"memorySize": "8GB"
+			},
+			"casing": {
+				"model": "Corsair Carbide SPEC-01",
+				"formFactor": "mid tower",
+				"manufacturer": "Corsair"
+			},
+			"PSU": {
+				"model": "Corsair RM750i",
+				"manufacturer": "Corsair",
+				"wattage": 750
+			},
+			"keyboard": {
+				"model": "SteelSeries 6G V2 (US) Red Switch",
+				"manufacturer": "Steelseries"
+			},
+			"mouse": {
+				"model": "SteelSeries Sensei Raw",
+				"manufacturer": "Steelseries"
+			},
+			"display": {
+				"model": "VX248H",
+				"manufacturer": "Asus",
+				"screenSize": "24 inch"
+			}
 		},
-		{
-			"name": "Gaming PC 2017 Model - P",
-			"specs": {
-				"cpu": {
-					"model": "Intel Core i7-7700 Kabylake",
-					"manufacturer": "Intel",
-					"clock": "3.6Ghz",
-					"socket": "LGA1151"
-				},
-				"motherboard": {
-					"model": "Asus ROG Maximus IX CODE (LGA1151,Z270, DDR4)",
-					"manufacturer": "Asus",
-					"chipset": "Intel Z270"
-				},
-				"memory": {
-					"model": "Gskill DDR4 TridentZ PC25600 32GB Dual Channel F4-3200C16D-32GTZKW",
-					"manufacturer": "Gskill",
-					"DDR": 4,
-					"PC": 25600,
-					"capacity": "2x16GB"
-				},
-				"storages": [
-					{
-						"model": "Samsung SSD 950 PRO M.2 PCI-Express 3.0 x4 MZ-V5P512BW ",
-						"manufacturer": "Samsung",
-						"type": "SSD",
-						"subtype": "nvme PCI-Express",
-						"capacity": "512GB"
-					}
-				],
-				"gpu": {
-					"model": "Asus GeForce GTX 1070 8GB DDR5 - Strix",
-					"manufacturer": "ASUS",
-					"chipset": "Nvidia GTX1070",
-					"memorySize": "8GB"
-				},
-				"casing": {
-					"model": "Corsair Carbide SPEC-01",
-					"formFactor": "mid tower",
-					"manufacturer": "Corsair"
-				},
-				"PSU": {
-					"model": "Corsair RM750i",
-					"manufacturer": "Corsair",
-					"wattage": 750
-				},
-				"keyboard": {
-					"model": "SteelSeries 6G V2 (US) Red Switch",
-					"manufacturer": "Steelseries"
-				},
-				"mouse": {
-					"model": "SteelSeries Sensei Raw",
-					"manufacturer": "Steelseries"
-				},
-				"display": {
-					"model": "VX248H",
-					"manufacturer": "Asus",
-					"screenSize": "24 inch"
-				}
+		"price": 2320,
+		"inStock": true
+	},
+	{
+		"name": "Gaming PC 2017 Model - P",
+		"specs": {
+			"cpu": {
+				"model": "Intel Core i7-7700 Kabylake",
+				"manufacturer": "Intel",
+				"clock": "3.6Ghz",
+				"socket": "LGA1151"
 			},
-			"price": 2500,
-			"inStock": true
+			"motherboard": {
+				"model": "Asus ROG Maximus IX CODE (LGA1151,Z270, DDR4)",
+				"manufacturer": "Asus",
+				"chipset": "Intel Z270"
+			},
+			"memory": {
+				"model": "Gskill DDR4 TridentZ PC25600 32GB Dual Channel F4-3200C16D-32GTZKW",
+				"manufacturer": "Gskill",
+				"DDR": 4,
+				"PC": 25600,
+				"capacity": "2x16GB"
+			},
+			"storages": [
+				{
+					"model": "Samsung SSD 950 PRO M.2 PCI-Express 3.0 x4 MZ-V5P512BW ",
+					"manufacturer": "Samsung",
+					"type": "SSD",
+					"subtype": "nvme PCI-Express",
+					"capacity": "512GB"
+				}
+			],
+			"gpu": {
+				"model": "Asus GeForce GTX 1070 8GB DDR5 - Strix",
+				"manufacturer": "ASUS",
+				"chipset": "Nvidia GTX1070",
+				"memorySize": "8GB"
+			},
+			"casing": {
+				"model": "Corsair Carbide SPEC-01",
+				"formFactor": "mid tower",
+				"manufacturer": "Corsair"
+			},
+			"PSU": {
+				"model": "Corsair RM750i",
+				"manufacturer": "Corsair",
+				"wattage": 750
+			},
+			"keyboard": {
+				"model": "SteelSeries 6G V2 (US) Red Switch",
+				"manufacturer": "Steelseries"
+			},
+			"mouse": {
+				"model": "SteelSeries Sensei Raw",
+				"manufacturer": "Steelseries"
+			},
+			"display": {
+				"model": "VX248H",
+				"manufacturer": "Asus",
+				"screenSize": "24 inch"
+			}
 		},
-		{
-			"name": "Gaming PC 2017 Model - Q",
-			"specs": {
-				"cpu": {
-					"model": "Intel Core i7-7600K Kabylake",
-					"manufacturer": "Intel",
-					"clock": "3.8Ghz",
-					"socket": "LGA1151",
-					"heatsink": {
-						"model": "Corsair Hydro Series H100i V2",
-						"manufacturer": "Corsair",
-						"type": "water cooler"
-					}
-				},
-				"motherboard": {
-					"model": "Asus ROG Maximus IX CODE (LGA1151,Z270, DDR4)",
-					"manufacturer": "Asus",
-					"chipset": "Intel Z270"
-				},
-				"memory": {
-					"model": "Gskill DDR4 TridentZ PC25600 32GB Dual Channel F4-3200C16D-32GTZKW",
-					"manufacturer": "Gskill",
-					"DDR": 4,
-					"PC": 25600,
-					"capacity": "2x16GB"
-				},
-				"storages": [
-					{
-						"model": "Samsung SSD 950 PRO M.2 PCI-Express 3.0 x4 MZ-V5P512BW ",
-						"manufacturer": "Samsung",
-						"type": "SSD",
-						"subtype": "nvme PCI-Express",
-						"capacity": "512GB"
-					}
-				],
-				"gpu": {
-					"model": "Asus GeForce GTX 1080 8GB DDR5X - Strix",
-					"manufacturer": "ASUS",
-					"chipset": "Nvidia GTX1080",
-					"memorySize": "8GB"
-				},
-				"casing": {
-					"model": "Corsair Carbide SPEC-01",
-					"formFactor": "mid tower",
-					"manufacturer": "Corsair"
-				},
-				"PSU": {
-					"model": "Corsair RM850i",
+		"price": 2500,
+		"inStock": true
+	},
+	{
+		"name": "Gaming PC 2017 Model - Q",
+		"specs": {
+			"cpu": {
+				"model": "Intel Core i7-7600K Kabylake",
+				"manufacturer": "Intel",
+				"clock": "3.8Ghz",
+				"socket": "LGA1151",
+				"heatsink": {
+					"model": "Corsair Hydro Series H100i V2",
 					"manufacturer": "Corsair",
-					"wattage": 850
-				},
-				"keyboard": {
-					"model": "SteelSeries 6G V2 (US) Red Switch",
-					"manufacturer": "Steelseries"
-				},
-				"mouse": {
-					"model": "SteelSeries Sensei Raw",
-					"manufacturer": "Steelseries"
-				},
-				"display": {
-					"model": "VX248H",
-					"manufacturer": "Asus",
-					"screenSize": "24 inch"
+					"type": "water cooler"
 				}
 			},
-			"price": 2850,
-			"inStock": true
+			"motherboard": {
+				"model": "Asus ROG Maximus IX CODE (LGA1151,Z270, DDR4)",
+				"manufacturer": "Asus",
+				"chipset": "Intel Z270"
+			},
+			"memory": {
+				"model": "Gskill DDR4 TridentZ PC25600 32GB Dual Channel F4-3200C16D-32GTZKW",
+				"manufacturer": "Gskill",
+				"DDR": 4,
+				"PC": 25600,
+				"capacity": "2x16GB"
+			},
+			"storages": [
+				{
+					"model": "Samsung SSD 950 PRO M.2 PCI-Express 3.0 x4 MZ-V5P512BW ",
+					"manufacturer": "Samsung",
+					"type": "SSD",
+					"subtype": "nvme PCI-Express",
+					"capacity": "512GB"
+				}
+			],
+			"gpu": {
+				"model": "Asus GeForce GTX 1080 8GB DDR5X - Strix",
+				"manufacturer": "ASUS",
+				"chipset": "Nvidia GTX1080",
+				"memorySize": "8GB"
+			},
+			"casing": {
+				"model": "Corsair Carbide SPEC-01",
+				"formFactor": "mid tower",
+				"manufacturer": "Corsair"
+			},
+			"PSU": {
+				"model": "Corsair RM850i",
+				"manufacturer": "Corsair",
+				"wattage": 850
+			},
+			"keyboard": {
+				"model": "SteelSeries 6G V2 (US) Red Switch",
+				"manufacturer": "Steelseries"
+			},
+			"mouse": {
+				"model": "SteelSeries Sensei Raw",
+				"manufacturer": "Steelseries"
+			},
+			"display": {
+				"model": "VX248H",
+				"manufacturer": "Asus",
+				"screenSize": "24 inch"
+			}
 		},
-		{
-			"name": "Gaming PC 2017 Model - R",
-			"specs": {
-				"cpu": {
-					"model": "AMD Vishera FX-6350",
-					"manufacturer": "AMD",
-					"clock": "3.9Ghz",
-					"socket": "AM3+",
-					"heatsink": {
-						"model": "Corsair Hydro Series H100i V2",
-						"manufacturer": "Corsair",
-						"type": "water cooler"
-					}
-				},
-				"motherboard": {
-					"model": "ASUS Sabertooth 990FX R2.0 (AM3/AM3+ ,AMD 990FX, DDR3 1600, USB3, SATA3",
-					"manufacturer": "ASUS",
-					"chipset": "AMD 990FX"
-				},
-				"memory": {
-					"model": "Gskill DDR3 RipjawsX PC19200 16GB Dual Channel F3-2400C11D-16GXM",
-					"manufacturer": "Gskill",
-					"DDR": 3,
-					"PC": 19200,
-					"capacity": "2x8GB"
-				},
-				"storages": [
-					{
-						"model": "Samsung SSD 850 EVO",
-						"manufacturer": "Samsung",
-						"type": "SSD",
-						"subtype": "SATA",
-						"capacity": "500GB"
-					}
-				],
-				"gpu": {
-					"model": "Asus GeForce GTX 1070 8GB DDR5 - Strix",
-					"manufacturer": "ASUS",
-					"chipset": "Nvidia GTX1070",
-					"memorySize": "8GB"
-				},
-				"casing": {
-					"model": "Corsair Carbide SPEC-01",
-					"formFactor": "mid tower",
-					"manufacturer": "Corsair"
-				},
-				"PSU": {
-					"model": "Corsair RM750i",
+		"price": 2850,
+		"inStock": true
+	},
+	{
+		"name": "Gaming PC 2017 Model - R",
+		"specs": {
+			"cpu": {
+				"model": "AMD Vishera FX-6350",
+				"manufacturer": "AMD",
+				"clock": "3.9Ghz",
+				"socket": "AM3+",
+				"heatsink": {
+					"model": "Corsair Hydro Series H100i V2",
 					"manufacturer": "Corsair",
-					"wattage": 750
-				},
-				"keyboard": {
-					"model": "SteelSeries 6G V2 (US) Red Switch",
-					"manufacturer": "Steelseries"
-				},
-				"mouse": {
-					"model": "SteelSeries Sensei Raw",
-					"manufacturer": "Steelseries"
-				},
-				"display": {
-					"model": "VX248H",
-					"manufacturer": "Asus",
-					"screenSize": "24 inch"
+					"type": "water cooler"
 				}
 			},
-			"price": 1950,
-			"inStock": true
+			"motherboard": {
+				"model": "ASUS Sabertooth 990FX R2.0 (AM3/AM3+ ,AMD 990FX, DDR3 1600, USB3, SATA3",
+				"manufacturer": "ASUS",
+				"chipset": "AMD 990FX"
+			},
+			"memory": {
+				"model": "Gskill DDR3 RipjawsX PC19200 16GB Dual Channel F3-2400C11D-16GXM",
+				"manufacturer": "Gskill",
+				"DDR": 3,
+				"PC": 19200,
+				"capacity": "2x8GB"
+			},
+			"storages": [
+				{
+					"model": "Samsung SSD 850 EVO",
+					"manufacturer": "Samsung",
+					"type": "SSD",
+					"subtype": "SATA",
+					"capacity": "500GB"
+				}
+			],
+			"gpu": {
+				"model": "Asus GeForce GTX 1070 8GB DDR5 - Strix",
+				"manufacturer": "ASUS",
+				"chipset": "Nvidia GTX1070",
+				"memorySize": "8GB"
+			},
+			"casing": {
+				"model": "Corsair Carbide SPEC-01",
+				"formFactor": "mid tower",
+				"manufacturer": "Corsair"
+			},
+			"PSU": {
+				"model": "Corsair RM750i",
+				"manufacturer": "Corsair",
+				"wattage": 750
+			},
+			"keyboard": {
+				"model": "SteelSeries 6G V2 (US) Red Switch",
+				"manufacturer": "Steelseries"
+			},
+			"mouse": {
+				"model": "SteelSeries Sensei Raw",
+				"manufacturer": "Steelseries"
+			},
+			"display": {
+				"model": "VX248H",
+				"manufacturer": "Asus",
+				"screenSize": "24 inch"
+			}
 		},
-		{
-			"name": "Gaming PC 2017 Model - S",
-			"specs": {
-				"cpu": {
-					"model": "AMD Vishera FX-8370 Cache 8MB",
-					"manufacturer": "AMD",
-					"clock": "4.0Ghz",
-					"socket": "AM3+",
-					"heatsink": {
-						"model": "Corsair Hydro Series H100i V2",
-						"manufacturer": "Corsair",
-						"type": "water cooler"
-					}
-				},
-				"motherboard": {
-					"model": "ASUS Sabertooth 990FX R2.0 (AM3/AM3+ ,AMD 990FX, DDR3 1600, USB3, SATA3",
-					"manufacturer": "ASUS",
-					"chipset": "AMD 990FX"
-				},
-				"memory": {
-					"model": "Gskill DDR3 RipjawsX PC15000 32GB Quad Channel F3-1866C10Q-32GXL",
-					"manufacturer": "Gskill",
-					"DDR": 3,
-					"PC": 15000,
-					"capacity": "4x8GB"
-				},
-				"storages": [
-					{
-						"model": "Samsung SSD 850 EVO 1TB",
-						"manufacturer": "Samsung",
-						"type": "SSD",
-						"subtype": "SATA",
-						"capacity": "1TB"
-					}
-				],
-				"gpu": {
-					"model": "Asus GeForce GTX 1070 8GB DDR5 - Strix",
-					"manufacturer": "ASUS",
-					"chipset": "Nvidia GTX1070",
-					"memorySize": "8GB"
-				},
-				"casing": {
-					"model": "Corsair Carbide SPEC-01",
-					"formFactor": "mid tower",
-					"manufacturer": "Corsair"
-				},
-				"PSU": {
-					"model": "Corsair RM850i",
+		"price": 1950,
+		"inStock": true
+	},
+	{
+		"name": "Gaming PC 2017 Model - S",
+		"specs": {
+			"cpu": {
+				"model": "AMD Vishera FX-8370 Cache 8MB",
+				"manufacturer": "AMD",
+				"clock": "4.0Ghz",
+				"socket": "AM3+",
+				"heatsink": {
+					"model": "Corsair Hydro Series H100i V2",
 					"manufacturer": "Corsair",
-					"wattage": 850
-				},
-				"keyboard": {
-					"model": "SteelSeries 6G V2 (US) Red Switch",
-					"manufacturer": "Steelseries"
-				},
-				"mouse": {
-					"model": "SteelSeries Sensei Raw",
-					"manufacturer": "Steelseries"
-				},
-				"display": {
-					"model": "VX248H",
-					"manufacturer": "Asus",
-					"screenSize": "24 inch"
+					"type": "water cooler"
 				}
 			},
-			"price": 2250,
-			"inStock": true
+			"motherboard": {
+				"model": "ASUS Sabertooth 990FX R2.0 (AM3/AM3+ ,AMD 990FX, DDR3 1600, USB3, SATA3",
+				"manufacturer": "ASUS",
+				"chipset": "AMD 990FX"
+			},
+			"memory": {
+				"model": "Gskill DDR3 RipjawsX PC15000 32GB Quad Channel F3-1866C10Q-32GXL",
+				"manufacturer": "Gskill",
+				"DDR": 3,
+				"PC": 15000,
+				"capacity": "4x8GB"
+			},
+			"storages": [
+				{
+					"model": "Samsung SSD 850 EVO 1TB",
+					"manufacturer": "Samsung",
+					"type": "SSD",
+					"subtype": "SATA",
+					"capacity": "1TB"
+				}
+			],
+			"gpu": {
+				"model": "Asus GeForce GTX 1070 8GB DDR5 - Strix",
+				"manufacturer": "ASUS",
+				"chipset": "Nvidia GTX1070",
+				"memorySize": "8GB"
+			},
+			"casing": {
+				"model": "Corsair Carbide SPEC-01",
+				"formFactor": "mid tower",
+				"manufacturer": "Corsair"
+			},
+			"PSU": {
+				"model": "Corsair RM850i",
+				"manufacturer": "Corsair",
+				"wattage": 850
+			},
+			"keyboard": {
+				"model": "SteelSeries 6G V2 (US) Red Switch",
+				"manufacturer": "Steelseries"
+			},
+			"mouse": {
+				"model": "SteelSeries Sensei Raw",
+				"manufacturer": "Steelseries"
+			},
+			"display": {
+				"model": "VX248H",
+				"manufacturer": "Asus",
+				"screenSize": "24 inch"
+			}
 		},
-		{
-			"name": "Gaming PC 2017 Model - T",
-			"specs": {
-				"cpu": {
-					"model": "AMD Vishera FX-9590 Cache 8MB",
-					"manufacturer": "AMD",
-					"clock": "4.7Ghz",
-					"socket": "AM3+",
-					"heatsink": {
-						"model": "Corsair Hydro Series H100i V2",
-						"manufacturer": "Corsair",
-						"type": "water cooler"
-					}
-				},
-				"motherboard": {
-					"model": "ASUS Sabertooth 990FX R2.0 (AM3/AM3+ ,AMD 990FX, DDR3 1600, USB3, SATA3",
-					"manufacturer": "ASUS",
-					"chipset": "AMD 990FX"
-				},
-				"memory": {
-					"model": "Gskill DDR3 RipjawsX PC15000 32GB Quad Channel F3-1866C10Q-32GXL",
-					"manufacturer": "Gskill",
-					"DDR": 3,
-					"PC": 15000,
-					"capacity": "4x8GB"
-				},
-				"storages": [
-					{
-						"model": "Samsung SSD 850 EVO 1TB",
-						"manufacturer": "Samsung",
-						"type": "SSD",
-						"subtype": "SATA",
-						"capacity": "1TB"
-					}
-				],
-				"gpu": {
-					"model": "Asus GeForce GTX 1080 8GB DDR5X - Strix",
-					"manufacturer": "ASUS",
-					"chipset": "Nvidia GTX1080",
-					"memorySize": "8GB"
-				},
-				"casing": {
-					"model": "Corsair Carbide SPEC-01",
-					"formFactor": "mid tower",
-					"manufacturer": "Corsair"
-				},
-				"PSU": {
-					"model": "Corsair RM1000i",
+		"price": 2250,
+		"inStock": true
+	},
+	{
+		"name": "Gaming PC 2017 Model - T",
+		"specs": {
+			"cpu": {
+				"model": "AMD Vishera FX-9590 Cache 8MB",
+				"manufacturer": "AMD",
+				"clock": "4.7Ghz",
+				"socket": "AM3+",
+				"heatsink": {
+					"model": "Corsair Hydro Series H100i V2",
 					"manufacturer": "Corsair",
-					"wattage": 1000
-				},
-				"keyboard": {
-					"model": "SteelSeries 6G V2 (US) Red Switch",
-					"manufacturer": "Steelseries"
-				},
-				"mouse": {
-					"model": "SteelSeries Sensei Raw",
-					"manufacturer": "Steelseries"
-				},
-				"display": {
-					"model": "VX248H",
-					"manufacturer": "Asus",
-					"screenSize": "24 inch"
+					"type": "water cooler"
 				}
 			},
-			"price": 2550,
-			"inStock": true
-		}
-	]
-}
+			"motherboard": {
+				"model": "ASUS Sabertooth 990FX R2.0 (AM3/AM3+ ,AMD 990FX, DDR3 1600, USB3, SATA3",
+				"manufacturer": "ASUS",
+				"chipset": "AMD 990FX"
+			},
+			"memory": {
+				"model": "Gskill DDR3 RipjawsX PC15000 32GB Quad Channel F3-1866C10Q-32GXL",
+				"manufacturer": "Gskill",
+				"DDR": 3,
+				"PC": 15000,
+				"capacity": "4x8GB"
+			},
+			"storages": [
+				{
+					"model": "Samsung SSD 850 EVO 1TB",
+					"manufacturer": "Samsung",
+					"type": "SSD",
+					"subtype": "SATA",
+					"capacity": "1TB"
+				}
+			],
+			"gpu": {
+				"model": "Asus GeForce GTX 1080 8GB DDR5X - Strix",
+				"manufacturer": "ASUS",
+				"chipset": "Nvidia GTX1080",
+				"memorySize": "8GB"
+			},
+			"casing": {
+				"model": "Corsair Carbide SPEC-01",
+				"formFactor": "mid tower",
+				"manufacturer": "Corsair"
+			},
+			"PSU": {
+				"model": "Corsair RM1000i",
+				"manufacturer": "Corsair",
+				"wattage": 1000
+			},
+			"keyboard": {
+				"model": "SteelSeries 6G V2 (US) Red Switch",
+				"manufacturer": "Steelseries"
+			},
+			"mouse": {
+				"model": "SteelSeries Sensei Raw",
+				"manufacturer": "Steelseries"
+			},
+			"display": {
+				"model": "VX248H",
+				"manufacturer": "Asus",
+				"screenSize": "24 inch"
+			}
+		},
+		"price": 2550,
+		"inStock": true
+	}
+]
